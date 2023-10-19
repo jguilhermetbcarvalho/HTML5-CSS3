@@ -13,5 +13,5 @@ Dentro de cada diretório de projeto, você encontrará exemplos de código rele
 
 ## Autor
 
-[jguilhermetbcarvalho]
+Guilherme Carvalho (jguilhermetbcarvalho)
 
